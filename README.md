@@ -1,2 +1,2 @@
-# yield-return-
-通过定义了一个简单的函数了解python中yield和return的区别
+# python3学习笔记
+记录自己学习Python的成长
